@@ -10,3 +10,5 @@ data = pd.DataFrame({
 })
 data.to_csv("gdp_data.csv", index=False)
 print("File written: gdp_data.csv")
+# update for git collaboration exercise
+
